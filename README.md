@@ -1,4 +1,4 @@
-# API-Testing-using-Postman
+# API Testing using Postman
  ### Task 1 :
  - Test all methods in swagger https://petstore.swagger.io/ 
  - Write a test that checks the status of the code after removing the pet from the database
@@ -11,7 +11,7 @@
     https://www.postman.com/saturnb/workspace/postman-swagger
     
  ### Task 3 :
- Create test cases  for 4 methods from the storage module of collection requests
+ Create test casesnfor 4 methods from the storage module of collection requests
  ### Solution
  [Test Cases](https://docs.google.com/spreadsheets/d/1_NhUd9Yf4q9vd4o8DMv45x1gbiaP8J1vTStUSASQLhY/edit?usp=sharing)
  
